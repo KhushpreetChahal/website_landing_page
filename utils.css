@@ -1,0 +1,127 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between ;
+}
+.justify-center{
+    justify-content: center;
+}
+.font-bold{
+    font-weight: bolder;
+}
+.flex-col{
+    flex-direction: column;
+}
+.my-1{
+    margin-top:13px ;
+    margin-bottom:13px ;
+}
+.my-2{
+    margin-top:26px ;
+    margin-bottom:26px ;
+}
+
+.px-2{
+    padding-left:13px ;
+    padding-right:13px ;
+}
+.text-blue{
+    color:#00ffff;
+}
+.btn{
+    padding: 7px 12px;
+    border:2px solid rgb(9, 155, 166);
+    border-radius: 8px;
+    color:white;
+    background-color: #0cebeb;
+    cursor: pointer;
+
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+.text-center{
+    text-align: center ;
+}
+.top-right .gymimg{
+    width: 66px;
+    height: 44vh;
+}
+.gymimg{
+    width: 255px;
+    height: 70vh;
+}
+.section2 h1{
+    font-size: 2.3rem;
+}
+.section p{
+    padding: 0 8px;
+    text-align: center;
+}
+.box{
+    padding: 8px 0s;
+    margin: 12px 22px;
+    min-width: 35vh;
+    border: 2px solid rgb(40, 46, 170);
+    text-align: center;
+    border-radius: 8px;
+}
+.box ul{
+    list-style-type: none;
+}
+.box ul li{
+    margin: 12px 2px;
+    list-style-type: none;
+}
+.box h2{
+    font-size: 2rem;
+    padding: 12 px 0;
+}
+.highlighted{
+    font-size: 1.1rem;
+    font-weight: bolder;
+
+}
+.section3 table{
+   width: 100%;
+   
+   margin-bottom: 140px 0;
+   margin-top: 20px;
+   border-collapse: collapse;
+
+  
+  
+}
+.section3 table th{
+    padding: 15px 0;
+    width: 23vw;
+    border-bottom: 2px solid black;
+  
+ }
+ .section3 table td{
+   
+    border-bottom: 2px solid black;
+  
+ }
+
+
+
+
+ .deal{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 12px 0;
+}
+.text-center{
+    text-align: center;
+}
